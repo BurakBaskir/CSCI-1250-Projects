@@ -40,8 +40,5 @@ Academic-Advisor_Project
 
 ## Author
 **Burak Baskir**
-<<<<<<< HEAD
 [GitHub Profile](https://github.com/BurakBaskir)
-=======
-[GitHub Profile](https://github.com/BurakBaskir)
->>>>>>> b3a9926d3f146ebc2ef73bde5cc3e72caef289b3
+
