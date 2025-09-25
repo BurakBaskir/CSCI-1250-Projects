@@ -26,7 +26,7 @@ cd CSCI-1250-Projects/RestourantOrder
 The program will repeatedly prompt you to order items until you type done.
 
 Example interaction:
-
+```csharp 
 --------Welcome to the Restaurant Order System!---------
 Here is our menu:
 pizza - $10
@@ -47,8 +47,7 @@ done
 Here is your receipt:
 Your total is $13.02
 Thank you for dining with us! Have a great day!
-Reference / Inspiration
-This project was inspired by the CSCI 1250 course resources and aimed to apply basic C# programming concepts such as loops, conditionals, and user input handling.
+```
 
 ## Reference / Inspiration
 This project was inspired by the [CSCI 1250 class resources](https://github.com/CSCI-1250/class_resources_public) provided by Professor Ryan Haas.
@@ -56,3 +55,4 @@ This project was inspired by the [CSCI 1250 class resources](https://github.com/
 ## Author  
 **Burak Baskir**
 [GitHub Profile](https://github.com/BurakBaskir)
+
