@@ -4,11 +4,13 @@ This program allows users to order menu items from a restaurant, calculates the 
 
 ## Features
 - Displays a menu with prices for each item:
+```
    Pizza: $10
    Burger: $6
    Fries: $4
    Soda: $2
    Dessert: $4
+```
 - Allows ordering multiple items with quantities.
 - Validates input to ensure non-negative quantities.
 - Keeps track of ordered quantities.
