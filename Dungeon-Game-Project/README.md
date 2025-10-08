@@ -88,7 +88,7 @@ It Works!! You could escape from the dungeon
 
 This project was inspired by the **CSCI 1250** class resources provided by Professor Ryan Haas.
 
-* **CSCI 1250 Class Resources:** <https://github.com/CSCI-1250/class_resources_public>
+*[CSCI 1250 Class Resources](https://github.com/CSCI-1250/class_resources_public)*
 
 ---
 
@@ -96,4 +96,4 @@ This project was inspired by the **CSCI 1250** class resources provided by Profe
 
 **Burak Baskir**
 
-* **GitHub Profile:** <https://github.com/BurakBaskir>
+*[GitHub Profile](https://github.com/BurakBaskir)*
