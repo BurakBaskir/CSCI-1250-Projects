@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Threading; // Thread.Sleep için gerekli
+using System.Threading; // Thread.Sleep 
 
 class Program
 {
@@ -52,15 +52,15 @@ It must Hurt!");
                 string choice = Console.ReadLine();
                 if (choice == "y")
                 {
-                    Main(null); // tekrar oyuna dön
+                    Main(null); // Return the game
                 }
                 else
                 {
-                    Environment.Exit(0); // oyundan çık
+                    Environment.Exit(0); 
                 }
             }
         }
-    }
+    
 
     static void Main(string[] args)
     {
@@ -87,7 +87,7 @@ Hide Hide! he is coming for us");
                 Console.WriteLine("It is locked, try other way");
                 Console.WriteLine("Click enter to go left side");
                 Console.ReadKey();
-                WayChoice = "left"; // tekrar sola yönlendir
+                WayChoice = "left"; // Direct to left
             }
             else if (WayChoice == "left")
             {
@@ -109,6 +109,6 @@ Hide Hide! he is coming for us");
         Console.ReadKey();
         Console.WriteLine("It Works!! You could escape from the dungeon");
 
-        Environment.Exit(0); // ÇIKIŞ (return yazmana gerek yok)
+        Environment.Exit(0); 
     }
 }
