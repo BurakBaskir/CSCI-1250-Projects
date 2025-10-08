@@ -36,7 +36,7 @@ Follow the prompts in the console to navigate the dungeon.
 * Press **Enter** to perform actions like hiding, walking, attacking, or opening doors.
 
 ### Example Flow:
-
+```
 Hey Wake Up!
 We are lucky he didnt eat us yet we have to find a way to escape from here!
 Hide Hide! he is coming for us
@@ -80,7 +80,7 @@ You found a key on monster, try it to open the door
 
 Click enter to go to the doorTo try open door click enter
 It Works!! You could escape from the dungeon
-
+```
 
 ---
 
